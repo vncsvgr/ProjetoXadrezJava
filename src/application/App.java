@@ -9,7 +9,5 @@ public class App {
 
         ChessMatch chessMatch = new ChessMatch();
         UI.printBoard(chessMatch.getPieces());
-
-        // System.out.println(pos);
     }
 }
